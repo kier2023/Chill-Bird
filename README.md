@@ -56,5 +56,5 @@ python main.py / py main.py / python chill_bird.py
 - Fonts: Chewy-Regular.ttf
 
 ## License
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the [MIT License]([MIT License](https://github.com/kier2023/Chill-Bird/blob/main/MIT%20License).
 Feel free to modify and share the game! Have fun playing!
